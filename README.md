@@ -6,7 +6,7 @@ This project is a game built using **Java**
 
 This project is a simple game created just for learning
 
-##Image
+## Screenshots 
 ![Game Board](https://i.imgur.com/rzEjmq0.png)
 
 ## Table of Contents
